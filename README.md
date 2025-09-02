@@ -25,7 +25,7 @@ This app allows users to add, update, delete, and manage tasks as **Pending** or
 ---
 
 ## 📸 Screenshot
-![Todo Application UI](ecfd611b-6701-4878-88c6-57918618f103.png)
+![Todo Application UI](Screenshot 2025-09-02 113237.png)
 
 ---
 
